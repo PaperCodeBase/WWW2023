@@ -1,6 +1,6 @@
-# NIPS4707
+# WWW2023
 
-This repository is the official implementation of our paper: *Can Cross-Modality Mutual Learning Help For Enhancing Smart Contract Vulnerability Detection*. 
+This repository is the official implementation of our paper: *Cross-Modality Mutual Learning for Enhancing Smart Contract Vulnerability Detection on Bytecode*. 
 
 
 ## Requirements
